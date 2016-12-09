@@ -26,7 +26,7 @@ namespace UnitTesting
         public void TenPercentForWinter()
         {
             var result = _discountCalculator.CalculateDiscount(100, "winter");
-            Assert.AreEqual(10.1, result);
+            Assert.AreEqual(10.0, result);
         }
        
         
