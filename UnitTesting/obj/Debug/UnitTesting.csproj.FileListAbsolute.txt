@@ -1,0 +1,7 @@
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\bin\Debug\UnitTesting.dll
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\bin\Debug\UnitTesting.pdb
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\bin\Debug\SolidPrinciples.exe
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\bin\Debug\SolidPrinciples.pdb
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\obj\Debug\UnitTesting.dll
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\UnitTesting\obj\Debug\UnitTesting.pdb

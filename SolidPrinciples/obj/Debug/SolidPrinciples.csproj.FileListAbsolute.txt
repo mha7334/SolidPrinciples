@@ -1,0 +1,5 @@
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+w:\my documents\visual studio 2013\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
