@@ -1,0 +1,6 @@
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\obj\Debug\SolidPrinciples.pdb

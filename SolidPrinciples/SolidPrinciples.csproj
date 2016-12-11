@@ -42,6 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ISP\BasicCustomer.cs" />
+    <Compile Include="ISP\IUtils.cs" />
+    <Compile Include="ISP\SpecialCustomer.cs" />
+    <Compile Include="LSP\GoldCustomer.cs" />
+    <Compile Include="LSP\EnquiryCustomer.cs" />
+    <Compile Include="LSP\IDatabase.cs" />
+    <Compile Include="LSP\IDiscount.cs" />
+    <Compile Include="LSP\SilverCustomer.cs" />
     <Compile Include="OCP\DiscountCalculator.cs" />
     <Compile Include="OCP\IDiscountCalculate.cs" />
     <Compile Include="OCP\SummerDiscountCalculator.cs" />
@@ -54,9 +62,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="UnitTests\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
