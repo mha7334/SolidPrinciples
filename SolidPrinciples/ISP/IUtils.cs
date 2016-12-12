@@ -11,7 +11,7 @@ namespace SolidPrinciples.ISP
         void Add();
 
     }
-    public interface IAddedUtils :IUtils
+    public interface IUtilsSpecial :IUtils
     {
         void Read();
     }

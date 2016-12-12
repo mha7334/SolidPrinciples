@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SolidPrinciples.ISP
 {
-    public class SpecialCustomer : IAddedUtils
+    public class SpecialCustomer : IUtilsSpecial
     {
         public void Add()
         {

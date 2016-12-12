@@ -4,3 +4,9 @@ D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
 D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\obj\Debug\SolidPrinciples.exe
 D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
+W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
+W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csprojResolveAssemblyReference.cache

@@ -6,3 +6,10 @@ D:\Projects\Repos\SolidPrinciples2\UnitTesting\bin\Debug\SolidPrinciples.pdb
 D:\Projects\Repos\SolidPrinciples2\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
 D:\Projects\Repos\SolidPrinciples2\UnitTesting\obj\Debug\UnitTesting.dll
 D:\Projects\Repos\SolidPrinciples2\UnitTesting\obj\Debug\UnitTesting.pdb
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\bin\Debug\UnitTesting.dll
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\bin\Debug\UnitTesting.pdb
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\bin\Debug\SolidPrinciples.exe
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\bin\Debug\SolidPrinciples.pdb
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\obj\Debug\UnitTesting.dll
+W:\work\Projects\repos\SolidPrinciples\UnitTesting\obj\Debug\UnitTesting.pdb
