@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DIP\AppPoolWatcher.cs" />
+    <Compile Include="DIP\EventLogWriter.cs" />
+    <Compile Include="DIP\INofificationAction.cs" />
     <Compile Include="ISP\BasicCustomer.cs" />
     <Compile Include="ISP\IUtils.cs" />
     <Compile Include="ISP\SpecialCustomer.cs" />

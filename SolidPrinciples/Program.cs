@@ -1,4 +1,5 @@
-﻿using SolidPrinciples.SRP;
+﻿using SolidPrinciples.DIP;
+using SolidPrinciples.SRP;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,10 +21,11 @@ namespace SolidPrinciples
             PrintSalary printSal = new PrintSalary();
             printSal.PrintSal(calSal.CalcualteSalary());
 
-            //OCP
-
-
-
+            //DIP
+            AppPoolWatcher watcher = new AppPoolWatcher(new EventLogWriter());
+            watcher.Notify("Sample message to log");
+            watcher = new AppPoolWatcher(new SMSSender());
+            watcher.Notify("Sendt!");
 
         }
     }

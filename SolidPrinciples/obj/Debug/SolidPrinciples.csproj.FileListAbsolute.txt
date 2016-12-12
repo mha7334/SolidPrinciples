@@ -10,3 +10,4 @@ W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples
 W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
 W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
 W:\work\Projects\repos\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csprojResolveAssemblyReference.cache
+D:\Projects\Repos\SolidPrinciples2\SolidPrinciples\obj\Debug\SolidPrinciples.csprojResolveAssemblyReference.cache
